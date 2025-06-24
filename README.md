@@ -70,14 +70,14 @@ Ce notebook va :
 
 * L'algorithme d'optimisation pour ajuster les poids du réseau pendant l'entraînement
 
-Résultats attendus
+## Résultats attendus
 Trois modèles entraînés avec des précisions supérieures à 98% sur l'ensemble test.
 
 Courbes d'entraînement montrant la perte et la précision au fil des époques.
 
 Comparaison des performances des trois architectures.
 
-Ressources
+## Ressources
 MNIST Dataset
 
 TensorFlow Keras Documentation
