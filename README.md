@@ -13,9 +13,9 @@ Vous apprendrez à :
 
 - Python 3.7 ou plus
 - Librairies Python :
-  -- TensorFlow (ou Keras)
-  -- NumPy
-  -- Matplotlib (optionnel pour visualisation)
+  - TensorFlow (ou Keras)
+  - NumPy
+  - Matplotlib (optionnel pour visualisation)
 - Accès internet pour télécharger la base MNIST (automatique via Keras)
 
 ## Contenu
@@ -42,13 +42,14 @@ Le workshop inclut :
    ```bash
    git clone https://github.com/votre-utilisateur/Classification-d-images.git
    cd Classification-d-images
+   ```
 
 2. Installer les dépendances :
 
-`
+```
 pip install tensorflow numpy matplotlib
 Exécuter le script principal :
-`
+```
 
 Ce notebook va :
 
@@ -62,13 +63,13 @@ Ce notebook va :
 
 - (Optionnel) Modifier les hyperparamètres dans le script pour expérimenter avec :
 
-* Le nombre d’époques
+  - Le nombre d’époques
 
-* La taille des batchs
+  - La taille des batchs
 
-* Les architectures des CNN
+  - Les architectures des CNN
 
-* L'algorithme d'optimisation pour ajuster les poids du réseau pendant l'entraînement
+  - L'algorithme d'optimisation pour ajuster les poids du réseau pendant l'entraînement
 
 ## Résultats attendus
 Trois modèles entraînés avec des précisions supérieures à 98% sur l'ensemble test.
