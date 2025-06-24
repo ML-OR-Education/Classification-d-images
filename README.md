@@ -40,8 +40,8 @@ Le workshop inclut :
 
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/mnist-cnn-workshop.git
-   cd mnist-cnn-workshop
+   git clone https://github.com/votre-utilisateur/Classification-d-images.git
+   cd Classification-d-images
 
 2. Installer les dépendances :
 
