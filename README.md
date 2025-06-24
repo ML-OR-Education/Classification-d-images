@@ -13,9 +13,9 @@ Vous apprendrez à :
 
 - Python 3.7 ou plus
 - Librairies Python :
-  - TensorFlow (ou Keras)
-  - NumPy
-  - Matplotlib (optionnel pour visualisation)
+  -- TensorFlow (ou Keras)
+  -- NumPy
+  -- Matplotlib (optionnel pour visualisation)
 - Accès internet pour télécharger la base MNIST (automatique via Keras)
 
 ## Contenu
